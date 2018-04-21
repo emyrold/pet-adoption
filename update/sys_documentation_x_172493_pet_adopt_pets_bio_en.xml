@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="bio" label="Bio" language="en" table="x_172493_pet_adopt_pets">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>bio</element>
+            <help/>
+            <hint/>
+            <label>Bio</label>
+            <language>en</language>
+            <name>x_172493_pet_adopt_pets</name>
+            <plural>Bios</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-21 15:43:14</sys_created_on>
+            <sys_id>8c000eeedba91300796cdec0cf961940</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Bio</sys_name>
+            <sys_package display_value="Pet Adoption" source="x_172493_pet_adopt">171ab5a2dba91300796cdec0cf96199e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Pet Adoption">171ab5a2dba91300796cdec0cf96199e</sys_scope>
+            <sys_update_name>sys_documentation_x_172493_pet_adopt_pets_bio_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-21 15:43:14</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

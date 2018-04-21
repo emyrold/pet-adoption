@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_172493_pet_adopt.pets_user" name="x_172493_pet_adopt.pets_user">73ff352edba91300796cdec0cf961932</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-04-21 15:43:13</sys_created_on>
+        <sys_id>b3ff352edba91300796cdec0cf961934</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>73ff352edba91300796cdec0cf961932</sys_name>
+        <sys_package display_value="Pet Adoption" source="x_172493_pet_adopt">171ab5a2dba91300796cdec0cf96199e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pet Adoption">171ab5a2dba91300796cdec0cf96199e</sys_scope>
+        <sys_update_name>sys_embedded_help_role_b3ff352edba91300796cdec0cf961934</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-04-21 15:43:13</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
